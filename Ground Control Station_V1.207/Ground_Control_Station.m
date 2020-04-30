@@ -56,7 +56,7 @@ function Ground_Control_Station_OpeningFcn(hObject, eventdata, handles, varargin
 axes(handles.axes3)
 imshow('Mark.jpg','parent',handles.axes3)
 axes(handles.axes4)
-imshow('DSC01817.jpg','parent', handles.axes4)
+imshow('Team_Members.jpg','parent', handles.axes4)
 axes(handles.axes1)
 % AltitudeViewer;
 % ah = axes('Tag','axes3','unit', 'normalized');
